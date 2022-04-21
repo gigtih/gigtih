@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @gigtih
+- 
+- 👀 I’m interested in becoming a game dev
+- 
+- 🌱 I’m currently learning LUA and TypeScript
+- 
+- 💞️ I’m looking to collaborate on nothing for now
+- 
+- 📫 How to reach me: gigtih#6288 on discord
