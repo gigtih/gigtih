@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in becoming a game dev
 - 
-- 🌱 I’m currently learning LUA and TypeScript
+- 🌱 I’m currently learning Rust
 - 
 - 💞️ I’m looking to collaborate on nothing for now
 - 
